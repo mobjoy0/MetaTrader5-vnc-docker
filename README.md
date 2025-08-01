@@ -24,7 +24,7 @@ This Docker image sets up:
 
 1. Clone this repository:
 ```sh
-git clone https://github.com/mobjoy0/MetaTrader5-vnc-docker?tab=readme-ov-file.git
+git clone https://github.com/mobjoy0/MetaTrader5-vnc-docker.git
 cd MetaTrader-vnc-docker
 ```
 
