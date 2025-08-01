@@ -39,7 +39,7 @@ docker compose up -d
 
 ### First Time Setup (Important!)
 
-**Please wait 2-5 minutes after the container starts before accessing the desktop** - this allows all services to fully initialize.
+**Please wait 2-5 minutes after the container starts** - this allows all services to fully initialize.
 
 When you first access the desktop:
 
@@ -47,7 +47,7 @@ When you first access the desktop:
 
 2. **MetaTrader 5 Installation**: After Mono installation completes, the MetaTrader 5 installer will launch automatically. Follow the installation wizard to complete the MT5 setup.
 
-3. Once both installations are complete, you can launch MetaTrader 5 from the desktop or applications menu.
+3. Once both installations are complete, MetaTrade5 will launch automatically.
 
 ## Configuration
 
