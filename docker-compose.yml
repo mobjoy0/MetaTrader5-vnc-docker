@@ -1,0 +1,13 @@
+services:
+  lxqt:
+    build: .
+    container_name: mt5-debian-xfce-vnc
+    ports:
+      - "6080:6080"
+    environment:
+      - VNC_PASSWORD=admin
+      - VNC_RESOLUTION=1600x900
+      - VNC_DEPTH=24
+    volumes:
+      - ./data:/opt/data
+    restart: unless-stopped
