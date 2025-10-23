@@ -35,7 +35,7 @@ docker compose up -d
 
 3. Access the desktop environment:
    - Open your web browser and navigate to: `http://localhost:6080`
-   - Enter the VNC password (default: "yourpassword")
+   - Enter the VNC password (default: "admin")
 
 ### First Time Setup (Important!)
 
